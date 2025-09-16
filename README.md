@@ -29,18 +29,18 @@ ml-pipeline-housing/
 
 │   └── housing.csv
 
-│
+
 
 ├── models/
 
 │   └── model.pkl
 
-│
+
 ├── notebooks/
 
 │   └── exploration
 
-│
+
 
 ├── src/
 
