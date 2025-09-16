@@ -1,0 +1,1 @@
+This folder contains the raw data ( housing.csv), the input data for training the model, and the out put data from the model pipeline
